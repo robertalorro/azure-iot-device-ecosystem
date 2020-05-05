@@ -40,7 +40,7 @@ You should have the following items ready before beginning the process:
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
 
--   After powering up your RCO-1030G-2P Rugged Edge Computer device, be sure that it has established a network connection whether it is through ethernet, Wi-Fi, or cellular. For more information, please download the device's <a href="https://premio.blob.core.windows.net/premio/uploads/resource/user-manual/UM-VCO-6020-1050TI.pdf" rel="nofollow">User's Manual</a>.
+-   After powering up your RCO-1030G-2P Rugged Edge Computer device, be sure that it has established a network connection whether it is through ethernet, Wi-Fi, or cellular.
 
 <a name="Build"></a>
 # Step 3: Build and Run the sample
