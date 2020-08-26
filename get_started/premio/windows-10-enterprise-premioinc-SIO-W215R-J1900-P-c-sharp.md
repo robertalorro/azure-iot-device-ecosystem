@@ -34,7 +34,7 @@ You should have the following items ready before beginning the process:
 -   [Prepare your development environment][setup-devbox-windows]
 -   [Setup your IoT hub][lnk-setup-iot-hub]
 -   [Provision your device and get its credentials][lnk-manage-iot-hub]
--   VIO-212-PC400 12in Modular Panel PC device.
+-   SIO-W215R 15.6in 16x9 IP69K Resistive Washdown Panel PC.
 
 
 <a name="PrepareDevice"></a>
