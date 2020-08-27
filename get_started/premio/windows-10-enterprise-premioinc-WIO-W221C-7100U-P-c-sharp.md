@@ -1,10 +1,10 @@
 ---
 platform: Windows 10 Enterprise LTSC
-device: WIO-W221C 21.5in 16x9 IP66 Waterproof Panel PC
+device: WIO-W221C 21.5in 16x9 IP66 i3 Waterproof Panel PC
 language: csharp
 --- 
 
-Run a simple Csharp sample on WIO-W221C 21.5in 16x9 IP66 Waterproof Panel PC device running Windows 10 Enterprise LTSC
+Run a simple Csharp sample on WIO-W221C 21.5in 16x9 IP66 i3 Waterproof Panel PC device running Windows 10 Enterprise LTSC
 ===
 ---
 
@@ -21,7 +21,7 @@ Run a simple Csharp sample on WIO-W221C 21.5in 16x9 IP66 Waterproof Panel PC dev
 
 **About this document**
 
-This document describes how to connect WIO-W221C 21.5in 16x9 IP66 Waterproof Panel PC device running Windows 10 Enterprise LTSC with Azure IoT SDK. This multi-step process includes:
+This document describes how to connect WIO-W221C 21.5in 16x9 IP66 i3 Waterproof Panel PC device running Windows 10 Enterprise LTSC with Azure IoT SDK. This multi-step process includes:
 -   Configuring Azure IoT Hub
 -   Registering your IoT device
 -   Build and deploy Azure IoT SDK on device
@@ -34,13 +34,13 @@ You should have the following items ready before beginning the process:
 -   [Prepare your development environment][setup-devbox-windows]
 -   [Setup your IoT hub][lnk-setup-iot-hub]
 -   [Provision your device and get its credentials][lnk-manage-iot-hub]
--   WIO-W221C 21.5in 16x9 IP66 Waterproof Panel PC.
+-   WIO-W221C 21.5in 16x9 IP66 i3 Waterproof Panel PC
 
 
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
 
--   After powering up your WIO-W221C 21.5in 16x9 IP66 Waterproof Panel PC device, be sure that it has established a network connection whether it is through ethernet, Wi-Fi, or cellular. For more information, please download the device's <a href="https://premio.blob.core.windows.net/premio/uploads/resource/user-manual/UM_WIO-W221C.pdf" rel="nofollow">User's Manual</a>.
+-   After powering up your WIO-W221C 21.5in 16x9 IP66 i3 Waterproof Panel PC device, be sure that it has established a network connection whether it is through ethernet, Wi-Fi, or cellular. For more information, please download the device's <a href="https://premio.blob.core.windows.net/premio/uploads/resource/user-manual/UM_WIO-W221C.pdf" rel="nofollow">User's Manual</a>.
 
 <a name="Build"></a>
 # Step 3: Build and Run the sample
